@@ -1,0 +1,16 @@
+{
+  "name": "managetrainee-bower",
+  "authors": [
+    "phuockm <phuockm-1647@sun-asterisk.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/phuockm-1647/managetrainee-bower.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ]
+}
